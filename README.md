@@ -1,1 +1,1 @@
-# java-sample-app
+# Java Sample App
